@@ -1,0 +1,23 @@
+[
+    {
+        "summary": "In this lesson, we talk about waking computers and waking humans. In the previous videos, we learned about the internal structure and architecture of computers.",
+        "headline": "In the previous videos, we learned about the internal structure and architecture of computers.",
+        "start": 1090,
+        "end": 87566,
+        "gist": "wake computers & the technical connection between humans"
+    },
+    {
+        "summary": "The bios, which is a program, actually lives somewhere on the system, like it lives either in the motherboard or in the cpu. When the power button is pressed on, the energy just surges into the system and it's it goes straight to the cpu. Now that this energy is in the cpu, it starts reading instructions because the cpu knows how to do everything. These are a set of checks that are ran every single time the computer is turned on.",
+        "headline": "The bios, which is a program, actually lives somewhere on the system, like it lives either in the motherboard or in the cpu.",
+        "start": 87638,
+        "end": 173242,
+        "gist": "our programs live in the bios"
+    },
+    {
+        "summary": "As a human, when you wake up, there are a set of actions that you follow. These are a set of procedures, set of instructions that you are naturally following that you didn't know that you had set up.",
+        "headline": "As a human, when you wake up, there are a set of actions that you follow.",
+        "start": 173436,
+        "end": 225410,
+        "gist": "when you wake up as a human"
+    }
+]

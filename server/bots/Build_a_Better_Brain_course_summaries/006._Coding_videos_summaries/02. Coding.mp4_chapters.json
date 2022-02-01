@@ -1,0 +1,114 @@
+[
+    {
+        "summary": "It's your boy, sreecoder. Nate. Today we typing into what is coding? You always talk about that people need to go learn what coding is. So, like, what is it, bro? What is it? So at this point, i'm going to explain it to you all.",
+        "headline": "Today we typing into what is coding?",
+        "start": 1150,
+        "end": 21978,
+        "gist": "what is coding"
+    },
+    {
+        "summary": "Learn what technology is and why people use it. Take a journey back in the day where technology, let's say, was first introduced.",
+        "headline": "Learn what technology is and why people use it.",
+        "start": 22004,
+        "end": 73042,
+        "gist": "what is technology"
+    },
+    {
+        "summary": "Neanderthals didn't know how to initiate fire. By the way, i got a shake today. Make sure you got some drink, tap in. We say two neonatal is caveman, they're chilling. And let's say one day, let's say they're boxing, right? They're feuding with each other because humans, that's what we do.",
+        "headline": "Neanderthals didn't know how to initiate fire.",
+        "start": 73066,
+        "end": 108918,
+        "gist": "fire is a technology"
+    },
+    {
+        "summary": "Neanderthals used two sticks, simple two sticks, rub them together and have some fire. What fire basically did was extend the power of the fist. The fish had already had a lot of power in it when they was boxing.",
+        "headline": "Neanderthals used two sticks, simple two sticks, rub them together and have some fire.",
+        "start": 108944,
+        "end": 232760,
+        "gist": "neanderthals and fire"
+    },
+    {
+        "summary": "With social media, we see our friends, we see our family. Texting and talking on the phone that's helping us extend our voice across a distance. Two physical beings far apart can speak to each other as if they're right next to each other.",
+        "headline": "With social media, we see our friends, we see our family.",
+        "start": 233210,
+        "end": 313878,
+        "gist": "the social network we use"
+    },
+    {
+        "summary": "Technology isn't doing anything that humans could not do. The reason we put so much emphasis on technology is because technology my bad. After you're done processing, it rests.",
+        "headline": "Technology isn't doing anything that humans could not do.",
+        "start": 313964,
+        "end": 360838,
+        "gist": "technology is not like a human"
+    },
+    {
+        "summary": "Our brains run 24/7 process. You probably think you're not processing, but you're processing. The thing is we take the tedious tasks.",
+        "headline": "Our brains run 24/7 process.",
+        "start": 360994,
+        "end": 386314,
+        "gist": "our brains run on a constant process"
+    },
+    {
+        "summary": "Tell a computer to do a task for you. Or tell technology to send a message for you. Let's say a phone and your friend has a phone. So you're going to tell your phone to send this message to your friend.",
+        "headline": "Tell a computer to do a task for you.",
+        "start": 386362,
+        "end": 423618,
+        "gist": "tasks to tell a computer to do"
+    },
+    {
+        "summary": "We tell a human what to do, and the human takes the message and delivers it. The human then tells the next person the message picks up the next person's message. It probably knows that it's probably going to take google maps or probably know where the person lives.",
+        "headline": "The human then tells the next person the message picks up the next person's message.",
+        "start": 423764,
+        "end": 516726,
+        "gist": "add a human to the mix"
+    },
+    {
+        "summary": "Coding is just writing instructions for a computer to understand. What we would have to do with technology is literally tell the application line by line by line what to do. But the thing is, i can't say however you send it because the computer isn't like a human.",
+        "headline": "Coding is just writing instructions for a computer to understand.",
+        "start": 516788,
+        "end": 624540,
+        "gist": "replace the human with technology"
+    },
+    {
+        "summary": "In technology, it's different technology here and there, but they all communicate. You got english, french and all the other ones. So the computer is not about to learn every single language so that each language can program so that each language can communicate with it. So what's happening is instead of telling the computer to take all these languages and learn them, we tell the computer, just take one language and then translate or learn one language. The computer doesn't have to learn each one of these. It just knows the mapping in between.",
+        "headline": "So what's happening is instead of telling the computer to take all these languages and learn them, we tell the computer, just take one language and then translate or learn one language.",
+        "start": 624990,
+        "end": 1124894,
+        "gist": "talking to computers"
+    },
+    {
+        "summary": "We take memories, data from past events, and we're taking that data from our long term memory. Like humans, we really do that, too. And you kind of got to think about when we're participating in different activities. But what's picking up those instructions? It's brain, and it's processing those instructions and doing things after that.",
+        "headline": "We take memories, data from past events, and we're taking that data from our long term memory.",
+        "start": 1124992,
+        "end": 1347421,
+        "gist": "our short - term and long term memories"
+    },
+    {
+        "summary": "With assembly language, we have to tell the cpu to go to the long term memory and store things into the short term memory. The computer is doing the thing is we don't have to tell our brain move or go to my short term memory and grab that crossover move so i can hit it and then perform it. And so what people did was they took the assembly language and so remember, they already took zeros and ones and created assembly language.",
+        "headline": "With assembly language, we have to tell the cpu to go to the long term memory and store things into the short term memory.",
+        "start": 1347431,
+        "end": 1563770,
+        "gist": "moving data from one place to another"
+    },
+    {
+        "summary": "C is a functional language. It's called a function, you give it a function input, and then they give you some output. With a computer, typically we given it some input with a phone, what's the input? Our voice and the output is someone else's voice coming back.",
+        "headline": "C is a functional language.",
+        "start": 1563830,
+        "end": 1699398,
+        "gist": "the functional language"
+    },
+    {
+        "summary": "C plus allows us to store different objects, to create different objects in we can store different objects in our brain and our hard drive in our short term memory. C plus plus is real code, though, because it still allowed us to hit some of the lower level things. It's not like a higher level or lower levels, like a middle one, because you still can do the things that you do with the higher level languages.",
+        "headline": "C plus allows us to store different objects, to create different objects in we can store different objects in our brain and our hard drive in our short term memory.",
+        "start": 1699434,
+        "end": 2136860,
+        "gist": "moving to c + +"
+    },
+    {
+        "summary": "This week we go back to javascript and go to variables. Memory is just data so cpu is helping us store data. The cpu is helping us store data. But until then i'm going to get with you.",
+        "headline": "This week we go back to javascript and go to variables.",
+        "start": 2137190,
+        "end": 2178430,
+        "gist": "back to variables"
+    }
+]

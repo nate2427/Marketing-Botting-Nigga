@@ -1,0 +1,79 @@
+[
+    {
+        "summary": "This week we're getting into running programs. What do i mean by when i say, let's start up this program? What is a program? And you keep hearing me say program? And you keep hearing me say like somebody told somebody, wrote this program and started what do i mean by that?",
+        "headline": "What is a program?",
+        "start": 610,
+        "end": 113862,
+        "gist": "intro to this episode"
+    },
+    {
+        "summary": "In our long term memory, we store memories. When we think about our memories, we see it in pictures. The clearer it gets in your head, almost becomes reality.",
+        "headline": "In our long term memory, we store memories.",
+        "start": 113946,
+        "end": 228846,
+        "gist": "computer storing data"
+    },
+    {
+        "summary": "The instructions here are telling the energy telling the computer what to do with the energy to complete a certain task. When we run a procedure, we pretty much are thinking about what to do. The computer will say, take this energy and instead of going up the street in the round of corner, take this energy and go to the ram, grab some data from the ram, and then go to the display port and display that data onto the screen.",
+        "headline": "The computer will say, take this energy and instead of going up the street in the round of corner, take this energy and go to the ram, grab some data from the ram, and then go to the display port and display that data onto the screen.",
+        "start": 228978,
+        "end": 364130,
+        "gist": "instructions from the computer"
+    },
+    {
+        "summary": "I'm about to run safari right here at the bottom of my screen. You see my mouse is on safari and i'm about to click on that. And you about to see safari bounce around, right. And bounce for a little bit.",
+        "headline": "I'm about to run safari right here at the bottom of my screen.",
+        "start": 364300,
+        "end": 380630,
+        "gist": "safari bounces around"
+    },
+    {
+        "summary": "Watch the video and see, watch it slow down with the data. When it loaded, what happened was it took a second for all this data to really populate. It kind of took a second again. It's like a slight second.",
+        "headline": "Watch the video and see, watch it slow down with the data.",
+        "start": 380740,
+        "end": 412866,
+        "gist": "data just took a second to load"
+    },
+    {
+        "summary": "You need to understand what's happening in the background. There's a procedure that says if user double click the icon, run this procedure. When that signal goes off, the set of procedures are ran.",
+        "headline": "There's a procedure that says if user double click the icon, run this procedure.",
+        "start": 412938,
+        "end": 473250,
+        "gist": "what's going on"
+    },
+    {
+        "summary": "In this video, we show how to store data associated with a program in memory. For example, when we search google.com in safari, that data is stored in memory. When a program leaves memory, the data associated with that program is also stored in memory.",
+        "headline": "When a program leaves memory, the data associated with that program is also stored in memory.",
+        "start": 473310,
+        "end": 551446,
+        "gist": "loading safari from the ssd"
+    },
+    {
+        "summary": "In this video, i'm going to show you how to use safari on a pc. When the program starts, the operating system sends off a signal to your cpu that says, yo, an icon which just clicked on that icon was named safari. The cpu then says, okay, i'm going to take that name safari and search all the way through my hard drive and i'm going to start and i'm going to find safari. Once i find safari, i'm going to go grab i'm going to copy all of his contents.",
+        "headline": "The cpu then says, okay, i'm going to take that name safari and search all the way through my hard drive and i'm going to start and i'm going to find safari.",
+        "start": 551568,
+        "end": 640298,
+        "gist": "what's going on"
+    },
+    {
+        "summary": "You have to write every single thing in the computer. You cannot take any shortcuts. You have to write it out like what you need the computer to do every single step of the way.",
+        "headline": "You have to write every single thing in the computer.",
+        "start": 640384,
+        "end": 697146,
+        "gist": "the safari thing says"
+    },
+    {
+        "summary": "What's really happening in a computer and in a human like this s*** is really the same thing. Just as a computer programmer can write real nice, let's say bug fixing code and store it inside of the computer. Nate baker says computer science teaches us how we think.",
+        "headline": "What's really happening in a computer and in a human like this s*** is really the same thing.",
+        "start": 697218,
+        "end": 814050,
+        "gist": "double click on icons"
+    },
+    {
+        "summary": "These are real good videos. Like i said i'm a spiritual person but at the same time who understands computers and understand that g** is the ultimate programmer and i'm just trying to be like him so i'm going to get with you all in the next video. See ya then.",
+        "headline": "Like i said i'm a spiritual person but at the same time who understands computers and understand that g** is the ultimate programmer and i'm just trying to be like him so i'm going to get with you all in the next video.",
+        "start": 814110,
+        "end": 829230,
+        "gist": "see ya next time"
+    }
+]
